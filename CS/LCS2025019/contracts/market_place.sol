@@ -7,20 +7,16 @@ pragma solidity ^0.8.20;
     =========================================================
 
     FEATURES:
-    - ERC721 NFT
+    - IMPORTING contracts from Outside
     - User minting
-    - IPFS metadata support
     - Easy frontend listing
-    - Events for indexing
-
-    NOTE:
-    - Images & metadata are stored on IPFS (Pinata)
-    - Contract stores ONLY the metadata URI
+    
 */
 
 import "@openzeppelin/contracts/token/ERC721/ERC721.sol";
 import "@openzeppelin/contracts/token/ERC721/ERC721.sol";
 
+// We are importing our previous contracts
 import "./NFT_assign.sol";
 import "./Token_buy.sol";
 

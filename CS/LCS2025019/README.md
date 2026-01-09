@@ -14,3 +14,9 @@ Market Place ASSIGNMENT from ABIR DAS (LCS2025019)
 2️⃣ GDrive link of the recording of the deployment :
     
     [text](https://drive.google.com/file/d/1Gp19LSPp1wkG14LuGmQFxCYEpi3r1_ni/view?usp=drivesdk)
+
+
+## Feature of Our ASSIGNMENT
+-->> We made a contract that allows  user to buy our custom tokens using eth.
+-->> We made a contract in which our user can mine NFTs (We mined 10 NFTs for testing)
+-->> Lastly, our main contract provides a market where our users can sell and buy NFTs using our custom tokens
