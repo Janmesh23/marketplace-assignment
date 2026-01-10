@@ -18,7 +18,4 @@ contract platform_token is ERC20 {
         (bool success,) = owner.call{value: msg.value}("");
         require(success, "Transfer to owner failed");
     }
-    function checkBalance(address account) public view returns (uint256) {
-        return balanceOf(account);
-    }   
 }
