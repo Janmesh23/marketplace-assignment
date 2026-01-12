@@ -55,12 +55,12 @@ contract Marketplace {
         emit NFTSold(item.tokenId, msg.sender);
     }
 
-    // 1️⃣ View all listed (unsold) NFTs
+    // View all listed NFTs
     function viewListedNFTs() external view returns (Listing[] memory) {
         return listings;
     }
 
-    // 2️⃣ View all sold NFTs
+    // View all sold NFTs
     function viewSoldNFTs() external view returns (Listing[] memory) {
         uint count;
         for (uint i = 0; i < listings.length; i++) {
@@ -77,12 +77,12 @@ contract Marketplace {
         return sold;
     }
 
-    // 3️⃣ View NFT by tokenId
+    // View NFT by tokenId
     function viewNFT(uint256 tokenId) external view returns (OnChainNFT.NFT memory) {
         return nft.getNFT(tokenId);
     }
     
-    // 4️⃣ View NFTs purchased by user
+    // View NFTs purchased by user
     function viewNFTsPurchasedBy(address user) external view returns (uint256[] memory) {
         return purchases[user];
     }
