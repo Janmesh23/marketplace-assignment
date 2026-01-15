@@ -1,0 +1,94 @@
+{
+	"compiler": {
+		"version": "0.8.31+commit.fd3a2265"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "user",
+						"type": "address"
+					}
+				],
+				"name": "balanceOfUser",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "from",
+						"type": "address"
+					},
+					{
+						"internalType": "address",
+						"name": "to",
+						"type": "address"
+					},
+					{
+						"internalType": "uint256",
+						"name": "amount",
+						"type": "uint256"
+					}
+				],
+				"name": "transferFrom",
+				"outputs": [
+					{
+						"internalType": "bool",
+						"name": "",
+						"type": "bool"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"IT/LIT2025032/NFT_MARKETPLACE_ASSIGNMENT/MarketplaceContract.sol": "IToken"
+		},
+		"evmVersion": "osaka",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"IT/LIT2025032/NFT_MARKETPLACE_ASSIGNMENT/MarketplaceContract.sol": {
+			"keccak256": "0x6fdade8eb49d7411f99fcc0e7bcff04f70b8aecb0f22af7a3a52a9557c6ebff1",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://6bc890493ebfa612d88c2fcc59f6388228d39de793a62a987f4b96f4ea1689aa",
+				"dweb:/ipfs/Qmf3rnx17Dn5JRrPkRLXGj6fWbe56SyZhn4vfVvSeEyjAr"
+			]
+		}
+	},
+	"version": 1
+}
