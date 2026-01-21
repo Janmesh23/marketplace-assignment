@@ -1,0 +1,5 @@
+Token Contract Address(OnChainToken.sol)-0x510e902237cA10b016Cb2Df9aCc192834C9517Af
+NFT Contract Address(Monkee.sol)-0x47E8b96D31B4A355D7245b60821fe202ad5A604D
+Marketplace Contract(Marketplace.sol)-0x545329F14513f413d927470EBa61e3A2358aD46c
+
+loom recording link https://www.loom.com/share/ca52696359e24e2eb630021c379ef4e1
