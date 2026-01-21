@@ -1,0 +1,4 @@
+Token contract-0x047b37Ef4d76C2366F795Fb557e3c15E0607b7d8
+NFT contract-0x7FDc955b5E2547CC67759eDba3fd5d7027b9Bd66
+Marketplace contract-0xc4d5177E415a5f5116Dc07Db14273f2755Ef7aAe
+Loom recording link-https://www.loom.com/share/8e69f78cc3c4413e93b18f49d8710cb0
