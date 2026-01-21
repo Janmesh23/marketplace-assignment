@@ -1,11 +1,9 @@
-Market Place assignment from Roshan Bhamare(LCS2025004)
+CS
+Name : Om Sandip Patil 
+Roll No : LCS2025016
 
-Contract addresses of deployed contracts : 
+marketplace : 0xf1775e40796EE80196D042E0FcFf76E7E4fE87a8
+craetingnfts : 0x831d74e24552C90Fe9214b57cC43D91931D31259
+creation : 0x8d6436B072b5Ef9f0cDf044eaa49c102802BF1C3
 
-1) createtokens.sol : 0x9aFeAec0824C622A5EC30361cca0F7BF6A921357
-
-2) createnft.sol : 0x1270CAdeB3456464Efaea65867F7e40dd8012c95
-
-3) buysellNFT.sol : 0xb96cf9f2712C3CF5a07D7AE18dcf08af1e0A30fE
-
-loom recording link : https://www.loom.com/share/57e643a579f841eeb284e7cd6dbd2574 
+loom video link : https://www.loom.com/share/b19e9d2886544d7fa3bd8c53877e1b26
